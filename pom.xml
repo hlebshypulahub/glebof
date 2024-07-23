@@ -110,7 +110,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>OFApplication</mainClass>
+                            <mainClass>gleb.of.OFApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
